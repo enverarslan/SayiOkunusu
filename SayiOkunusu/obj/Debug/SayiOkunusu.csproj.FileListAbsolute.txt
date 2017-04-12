@@ -1,0 +1,13 @@
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Debug\SayiOkunusu.exe.config
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Debug\SayiOkunusu.exe
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Debug\SayiOkunusu.pdb
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\obj\Debug\SayiOkunusu.exe
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\obj\Debug\SayiOkunusu.pdb
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Debug\SayiOkunusu.exe.manifest
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Debug\SayiOkunusu.application
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\obj\Debug\SayiOkunusu.TrustInfo.xml
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\obj\Debug\SayiOkunusu.exe.manifest
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\obj\Debug\SayiOkunusu.application
+S:\Free\Github\SayiOkunusu\SayiOkunusu\bin\Debug\SayiOkunusu.exe.config
+S:\Free\Github\SayiOkunusu\SayiOkunusu\obj\Debug\SayiOkunusu.exe
+S:\Free\Github\SayiOkunusu\SayiOkunusu\obj\Debug\SayiOkunusu.pdb

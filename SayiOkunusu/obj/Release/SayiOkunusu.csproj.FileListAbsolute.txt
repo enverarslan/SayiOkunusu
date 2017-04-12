@@ -1,0 +1,5 @@
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Release\SayiOkunusu.exe.config
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Release\SayiOkunusu.exe
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\bin\Release\SayiOkunusu.pdb
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\obj\Release\SayiOkunusu.exe
+S:\Free\NET\Ornekler\SayiOkunusu\SayiOkunusu\obj\Release\SayiOkunusu.pdb
